@@ -1,0 +1,39 @@
+body {
+    padding-top: 30px; /* Added so that search container doesn't hides behind the nav bar */
+    
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+/* Default styles for the search container */
+.search-container {
+    width: 50%;
+    max-width: 500px; /* Max-width to prevent it from stretching too much on large screens */
+}
+
+/* Adjust the width for smaller screens */
+@media (max-width: 767px) {
+    .search-container {
+        width: 90%;
+    }
+}
+.footer {
+    
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    text-decoration: none;
+    transition: color 0.5s ease;
+}
+
+.footer a:hover {
+    color: #06ef6f;
+}
