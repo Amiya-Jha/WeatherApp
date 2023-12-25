@@ -1,6 +1,7 @@
 # WeatherApp
 
-![Screenshot 2023-12-16 110354](https://github.com/Amiya-Jha/WeatherApp/assets/97188732/c88f4db9-47b1-410a-be9c-d6915d1913e5)
+
+![Weather_screenshot2](https://github.com/Amiya-Jha/WeatherApp/assets/97188732/50b22a18-b5b7-4cbc-977e-5bfbc70d854f)
 
 
-![Screenshot 2023-12-16 101512](https://github.com/Amiya-Jha/WeatherApp/assets/97188732/cf769153-4e02-4d45-9893-84fd46b7506d)
+![Weather_screenshot1](https://github.com/Amiya-Jha/WeatherApp/assets/97188732/a5208469-e885-4c01-8036-aa1d50013017)
